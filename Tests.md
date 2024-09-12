@@ -253,7 +253,7 @@ p-значение: 0.0
 
 ---
 
-
+https://drive.google.com/file/d/1x7pwjnEf8kdsuCmbSnT7RXxzIjJZw-RL/view?usp=sharing
 
 
 
