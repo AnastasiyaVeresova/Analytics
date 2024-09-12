@@ -4,6 +4,8 @@
 
 ---
 
+https://docs.google.com/spreadsheets/d/1VcAeWtrkQviKoSBYoK9lmIaU5-Qb2Pdj/edit?gid=1493066266#gid=1493066266
+
 Названия строк |	Количество по полю ARPPU
 |--------------|----------------------------|
 | A              |	11835                   |
